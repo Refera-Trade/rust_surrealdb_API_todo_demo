@@ -3,6 +3,9 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgMjDy6Y7WISZ529S4VyXUg)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+Full video tutorial of functionality
+https://www.youtube.com/watch?v=8q0NCn_IUfQ
+
 
 <br />
 <div align="center">
